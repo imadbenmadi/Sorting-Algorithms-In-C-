@@ -99,6 +99,7 @@ void quickSort(struct mylist  *head)
 
 int main()
 {    
+    printf("\n\t\t\t\t\tQUICK Sort\n\n\n\n");
     mylist *head = NULL;
     int N;
     printf("Enter the Number : ");
