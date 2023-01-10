@@ -69,6 +69,7 @@ mylist *FILL_RANDOMLY(struct mylist *head, int N)
 }
 void main()
 {
+    printf("\n\t\t\t\t\tSELECTION Sort \n\n\n\n");
     mylist *head = NULL;
     int N;
     printf("Enter the Number : ");
