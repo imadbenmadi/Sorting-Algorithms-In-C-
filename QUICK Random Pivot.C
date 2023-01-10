@@ -118,6 +118,7 @@ void quickSort(struct mylist  *head)
 
 int main()
 {
+    printf("\n\t\t\t\t\tQUICK Sort pevote radomly\n\n\n\n");
     mylist *head = NULL;
     int N;// list size
     printf("Enter the Lenght of the list : ");
